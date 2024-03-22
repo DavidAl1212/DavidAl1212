@@ -1,4 +1,4 @@
-### Welcome. Let's connect!👋
+Welcome. Let's connect!👋
 
 <!--
 **DavidAl1212/DavidAl1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
