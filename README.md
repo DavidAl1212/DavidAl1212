@@ -1,4 +1,3 @@
-Hey!👋
 
 - 🎓 Linguistics student based in Colombia, working on (NLP) and Machine Learning (ML).
 - 💻 Proficient in  Python (Django, FastAPI), ML frameworks (PyTorch) and SQL
